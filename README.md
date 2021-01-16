@@ -1,0 +1,1 @@
+# react-gjango-integration-practic
